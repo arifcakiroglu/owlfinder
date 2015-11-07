@@ -5,9 +5,9 @@
     <key>BuildMachineOSBuild</key>
     <string>14D136</string>
     <key>CFBundleIdentifier</key>
-    <string>com.electron.owl.helper</string>
+    <string>com.electron.owl-finder.helper</string>
     <key>CFBundleName</key>
-    <string>Owl</string>
+    <string>Owl-Finder</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>DTSDKBuild</key>
