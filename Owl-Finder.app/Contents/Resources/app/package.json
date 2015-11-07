@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/nodejs-dersleri/owl-finder#readme",
   "dependencies": {
+    "electron": "^0.4.1",
     "jquery": "^2.1.4",
     "menubar": "^2.3.0",
     "querystring": "^0.2.0",
