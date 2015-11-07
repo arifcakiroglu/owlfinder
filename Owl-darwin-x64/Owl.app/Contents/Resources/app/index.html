@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>byks finder</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link href="app/stylesheets/normalize.css" rel="stylesheet">
+    <link href="app/fonts/octicons/octicons.css" rel="stylesheet">
+    <link href="app/stylesheets/style.css" rel="stylesheet">
+  </head>
+  <body>
+
+    <!-- Begin: Header-->
+    <header>
+      <div class="logo"></div>
+      <span class="octicon octicon-gear gear" id="settings"></span>
+      <div class="form-control">
+        <input class="input-block search" type="text" id="search" placeholder="Search for icon">
+        <!--<span class="octicon octicon-triangle-down" ></span>-->
+      </div>
+
+    </header>
+    <!-- End: Header-->
+
+    <!-- Begin: Main-->
+    <div class="main">
+
+      <ul id="list">
+      </ul>
+      <div class="loading"></div>
+    </div>
+    <!-- End: Main-->
+
+    <!-- Begin: Settings-->
+    <div class="settings">
+      <h2>Settings</h2>
+      <div class="form-group clearfix">
+        <div class="label">
+          <b>Only Free: </b>
+        </div>
+        <div class="form-control">
+          <div class="onoffswitch">
+              <input type="checkbox" name="premium" class="onoffswitch-checkbox" id="premium" >
+              <label class="onoffswitch-label" for="premium"></label>
+          </div>
+        </div>
+      </div>
+
+      <div class="form-group clearfix">
+        <div class="label">
+          <b>Count: </b>
+        </div>
+        <div class="form-control">
+          <input type="number" name="count" id="count" value="10">
+        </div>
+      </div>
+
+      <div class="form-group clearfix">
+        <div class="label">
+          <b>Type: </b>
+        </div>
+        <div class="form-control">
+          <select class="" name="type" id="type">
+            <option value="">None</option>
+            <option value="glyph">Glyph</option>
+            <option value="outline">Outline</option>
+            <option value="flat">Flat</option>
+            <option value="photorealistic">Photorealistic</option>
+            <option value="3D">3D</option>
+            <option value="handdrawn">Handdrawn</option>
+            <option value="cartoon">Cartoon</option>
+            <option value="pixel">Pixel</option>
+            <option value="smooth">Smooth</option>
+          </select>
+
+        </div>
+      </div>
+      <footer>
+        <span class="made-with-heart">
+
+          <span class="octicon octicon-code"></span> with
+          <span class="octicon octicon-heart"> </span>  in Turkey
+        </span>
+      </footer>
+
+    </div>
+
+    <!-- End: Settings-->
+
+    <script type="text/javascript" src="app/lib/app.js"></script>
+  </body>
+</html>
