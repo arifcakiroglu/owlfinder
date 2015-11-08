@@ -1,5 +1,10 @@
-# owlfinder
-Tasarımcılar için masa üstü ikon arama ve kullanama programı :)
+# Owlfinder(geçici isim)
+
+### Icon finder'da ki  659,681 ikonu, desktop application üzerinden arayıp, kullanmaya yarar.
+
+> Tasarım yaparken hızlı bir şekilde ikon arayıp, photoshop, illustrator ya da diğer programlara sürükleyip bırakmanız yeter.
+
+
 
 [indir/download](https://github.com/arifcakiroglu/owlfinder/releases/tag/v0.1.0-alpha)
 
