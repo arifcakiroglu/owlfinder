@@ -1,6 +1,6 @@
 # Owlfinder(geçici isim)
 
-### Icon finder'da ki  659,681 ikonu, desktop application üzerinden arayıp, kullanmaya yarar.
+### Icon finder'daki  659,681 ikonu, desktop application üzerinden arayıp, kullanmaya yarar.
 
 > Tasarım yaparken hızlı bir şekilde ikon arayıp, photoshop, illustrator ya da diğer programlara sürükleyip bırakmanız yeter.
 
