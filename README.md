@@ -11,3 +11,7 @@
 ![screenshot-1](screenshot-1.png)
 
 ![screenshot-2](screenshot-2.png)
+
+
+
+###Licensed under DBAD licence
