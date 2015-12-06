@@ -85,7 +85,7 @@ var byks = {
   },
   notFound : function(){
     this.clear();
-    $('#list').html('<div class="no-result">I didn\'t find anything, sorry :(</div>');
+    $('#list').html('<div class="no-result">I couldn\'t find anything, sorry :(</div>');
   },
   wait : function(args){
     $('.loading').toggle(args)
